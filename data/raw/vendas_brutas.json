@@ -1,0 +1,50 @@
+[
+  {
+    "id_venda": 101,
+    "data": "2026-01-15",
+    "cliente": "Rodrigo Borges",
+    "cpf": "123.456.789-00",
+    "produto": "Pneu Pirelli MT60",
+    "valor": 450.00
+  },
+  {
+    "id_venda": 102,
+    "data": "2026-01-20",
+    "cliente": "Ana Silva",
+    "cpf": "98765432100",
+    "produto": "Kit Relação DID",
+    "valor": 280.50
+  },
+  {
+    "id_venda": 103,
+    "data": "2026-02-05",
+    "cliente": "Rodrigo Borges",
+    "cpf": "12345678900",
+    "produto": "Óleo Motul 5100",
+    "valor": 65.00
+  },
+  {
+    "id_venda": 104,
+    "data": "2026-02-12",
+    "cliente": "Carlos Souza",
+    "cpf": "456.123.789-11",
+    "produto": "Capacete LS2 Rapid",
+    "valor": 599.90
+  },
+  {
+    "id_venda": 105,
+    "data": "2026-02-28",
+    "cliente": "Ana Silva",
+    "cpf": "987.654.321-00",
+    "produto": "Pastilha de Freio Brembo",
+    "valor": 120.00
+  },
+  {
+    "id_venda": 106,
+    "data": "2026-03-05",
+    "cliente": "Rodrigo Borges",
+    "cpf": "123.456.789-00",
+    "produto": "Luva Alpinestars",
+    "valor": 350.00
+  }
+]
