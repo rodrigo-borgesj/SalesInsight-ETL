@@ -1,10 +1,10 @@
-```markdown
+
 # SalesInsight-ETL 🚀
 
 O SalesInsight-ETL é uma ferramenta de automação que transforma dados brutos de vendas (JSON) em inteligência de negócio,
 utilizando um pipeline ETL (Extract, Transform, Load) completo com Python, SQL e Data Visualization.
 
-```
+
 ## 📂 Estrutura do Projeto
 
 ```text
@@ -29,7 +29,7 @@ SalesInsight-ETL/
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**: Linguagem base.
+* **Python 3.14**: Linguagem base.
 * **Pandas**: Manipulação e tratamento de dados.
 * **SQLite**: Armazenamento relacional dos dados processados.
 * **Matplotlib**: Visualização de dados e geração de gráficos.
